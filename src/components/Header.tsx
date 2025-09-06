@@ -48,7 +48,7 @@ const Header = () => {
               <span className="text-primary-foreground font-bold text-lg">DQ</span>
             </div>
             <div className="hidden sm:block">
-              <h1 className="text-xl font-bold text-foreground">Nha khoa Đoàn Minh Quân</h1>
+              <h1 className="text-xl font-bold text-foreground">Nha khoa Minh Quân</h1>
               <p className="text-sm text-muted-foreground">Nụ cười hoàn hảo</p>
             </div>
           </Link>
